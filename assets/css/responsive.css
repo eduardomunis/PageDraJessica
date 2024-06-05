@@ -101,7 +101,7 @@
 		top: 0;
 		z-index: 999;
 		width: 100%;
-		background-color: #fff;
+		background-color: #f10d0d;
 		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 	}
 	body.dark .sticky-header {
@@ -217,9 +217,7 @@
 	.navbar-nav>li>a{
 		padding: 15px 15px;
 	}
-	.navbar-header{
-		border-bottom:1px solid #ccc;
-	}
+
 	.slide-content label{
 		font-size:18px;
 	}

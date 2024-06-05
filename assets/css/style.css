@@ -1169,7 +1169,7 @@ body.dark #services{
 	background-color:#131212;
 }
 .service-box {
-    float: left;
+    float: right;
 	background-image:url('../img/all/practice-area-bg.jpg');
 	background-size:cover;
 	background-repeat:no-repeat;	

@@ -217,9 +217,9 @@
 	.navbar-nav>li>a{
 		padding: 15px 15px;
 	}
-	.navbar-header{
+	/*.navbar-header{
 		border-bottom:1px solid #ccc;
-	}
+	}*/
 	.slide-content label{
 		font-size:18px;
 	}
